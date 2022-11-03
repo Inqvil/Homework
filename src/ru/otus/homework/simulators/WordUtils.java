@@ -1,6 +1,9 @@
 package ru.otus.homework.simulators;
 
-
+/*
+Дана строка, состоящая из слов, разделенных пробелами.
+Необходимо реализовать метод, который возвращает строку, слова в которой записаны в обратном порядке.
+ */
 
 public class WordUtils {
     public static String reverseWords(String str) {
