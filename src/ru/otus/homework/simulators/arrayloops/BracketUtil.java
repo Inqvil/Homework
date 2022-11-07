@@ -1,4 +1,4 @@
-package ru.otus.homework.simulators;
+package ru.otus.homework.simulators.arrayloops;
 
 
 /*
@@ -8,6 +8,7 @@ package ru.otus.homework.simulators;
 Например (()) - корректная строка, ()) - некорректная строка
  */
 public class BracketUtil {
+
     public static boolean parsing(String str) {
         int check = 0;
         for (int i = 0; i < str.length(); i++) {

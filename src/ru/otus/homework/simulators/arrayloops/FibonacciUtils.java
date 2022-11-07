@@ -1,6 +1,5 @@
-package ru.otus.homework.simulators;
+package ru.otus.homework.simulators.arrayloops;
 
-import java.math.BigInteger;
 /*
 Дано число. Реализуйте метод, который вычисляет числа Фибоначчи (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ...), находит их сумму и возвращает её в виде строки.
 Формула расчёта чисел: Fn = Fn-1 + Fn-2 - где n переданное в метод число.

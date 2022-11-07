@@ -1,4 +1,4 @@
-package ru.otus.homework.simulators;
+package ru.otus.homework.simulators.arrayloops;
 
 public class MathUtilAvg {
     public static int getPrimeNumbersSum(byte lowEdge, byte highEdge) {

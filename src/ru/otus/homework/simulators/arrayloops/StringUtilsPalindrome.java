@@ -1,4 +1,4 @@
-package ru.otus.homework.simulators;
+package ru.otus.homework.simulators.arrayloops;
 
 public class StringUtilsPalindrome {
     public static boolean isPalindrome(String input) {
