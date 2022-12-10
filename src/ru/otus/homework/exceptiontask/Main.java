@@ -15,8 +15,17 @@ public class Main {
 
         ControlPart.createFile("anotherAnek.txt");
         String anotherAnekPath = separator +"IdeaProjects" + separator + "Homework" + separator + "anotherAnek.txt";
-        ControlPart.addContent(anotherAnekPath, "После страшной аварии спасатели достали из машины пол уокера, а потом ещё пол уокера");
+        ControlPart.addContent(anotherAnekPath, "После страшной аварии спасатели достали из машины пол уокера, а потом ещё пол уокера.");
         ControlPart.readFile(anotherAnekPath);
+
+        Toy toy = new Toy(111);
+        toy.changeCost(11);
+
+
+
+
+
+
 
 
 
